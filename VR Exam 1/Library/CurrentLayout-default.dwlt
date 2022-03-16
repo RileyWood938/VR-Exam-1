@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 678, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 38365
+  controlID: 1775
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 38366
+  controlID: 1681
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,7 +165,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 221}
   m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
-  controlID: 38367
+  controlID: 1682
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -397,7 +397,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 183affff843effff7442ffff5e48ffffd84cffff5e70ffff5c7affff2280ffffcea0ffffeaa1ffff56a3ffff7aa3ffffa2a3ffffc2a3ffffc6a4ffffe2a5fffff8a5ffff16a6ffffe4c4ffffb8c5ffff54d9ffff92e6ffff52f3ffff66fbfffffc7700006878000084780000c2780000f69c00007e9d0000f6d30000a2db0000fadb0000
+      m_ExpandedIDs: dce5ffff66fbffffbc370000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -665,20 +665,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\night\Documents\GitHub\VR-Exam-1\VR Exam 1
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 0c390000
-    m_LastClickedID: 14604
-    m_ExpandedIDs: 000000000c3900000e39000010390000243900002639000000ca9a3b
+    m_SelectedIDs: 98390000
+    m_LastClickedID: 14744
+    m_ExpandedIDs: 0000000086390000883900008a3900008c3900008e39000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -706,7 +706,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000000c3900000e3900001039000014390000243900002639000000ca9a3b
+    m_ExpandedIDs: 0000000086390000883900008a3900008c3900008e39000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -734,7 +734,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000de38000000000000
+    m_ExpandedInstanceIDs: c6230000de38000000000000b8390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
