@@ -58,3 +58,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+#OH GOD PLEASE WORK (remove IL2CPP cache)
+il2cpp_cache/

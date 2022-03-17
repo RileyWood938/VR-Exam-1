@@ -4,7 +4,9 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class GameEnderScript : MonoBehaviour
-{
+{ /// <summary>
+/// this script changes levels after 30 seconds. since the timer resets in new scenes, I opted for 2 30 second timers.
+/// </summary>
     private float timer = 0;
     void Update()
     {
